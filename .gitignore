@@ -1,0 +1,6 @@
+/.eslintignore
+/.eslintrc
+/bin
+/node_modules
+/nodemon.json
+/package-lock.json
